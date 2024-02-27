@@ -19,8 +19,8 @@ This is a prototype GPS tracker device built using Arduino. This device operates
 - SIM 800L module
 - Antenna
 - Push Button
+- Buzzer
 - Jumper Wires
-
 
 
 ## Schematic
